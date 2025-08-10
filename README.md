@@ -1,7 +1,7 @@
 
 ---
 
-# Manim Practice Codes
+# Manim Codes
 
 This repository contains my practice scripts created using [Manim](https://www.manim.community/), a mathematical animation engine.  
 Each script demonstrates a specific mathematical or animation concept, along with generated outputs in GIF formats
@@ -12,6 +12,7 @@ Each script demonstrates a specific mathematical or animation concept, along wit
 ## ⚙️ Installation
 1. Clone this repository:
 ```bash
+
 git clone https://github.com/sahilvirdi01/Manim.git
 
 cd Manim
@@ -43,44 +44,77 @@ Replace AnimateScene with the actual scene class name in the script.
 ---
 
 ### Codes & Previews
-<ul>
-  <li>
-    <details>
+
+   <details>
     <summary><a href="src/example.py">HelloWorld.py</a></summary>
-  <!-- Content of the dropdown goes here -->
     <p>This code creates a square that tilts and transforms into circle </p>
     <h3> Output </h3>
     <img src="media/gifs/Helloworld.gif">
-    </details>
-  </li>
-  <li>
-    <details>
+   </details>
+  
+  
+   <details>
     <summary><a href="src/animate.py">Animate.py</a></summary>
-  <!-- Content of the dropdown goes here -->
     <p>This code creates a square that tilts and transforms into circle </p>
     <h3> Output </h3>
     <img src="media/gifs/animate.gif">
-    </details>
-  </li>
-  <li>
-    <details>
+   </details>
+  
+  
+   <details>
     <summary><a href="src/circle.py">circle.py</a></summary>
-  <!-- Content of the dropdown goes here -->
     <p>This code creates a square that tilts and transforms into circle </p>
     <h3> Output </h3>
     <img src="media/gifs/CreateCircle.gif">
-    </details>
-  </li>
+   </details>
   
+  
+   <details>
+    <summary><a href="src/mobjects.py">mobjects.py</a></summary>
+    <p>This code creates a square that tilts and transforms into circle </p>
+    <h3> Output </h3>
+    <img src="media/gifs/squareandcircle.gif">
+   </details>
+  
+  
+   <details>
+    <summary><a href="src/rotations.py">rotations.py</a></summary>
+    <p>This code creates a square that tilts and transforms into circle </p>
+    <h3> Output </h3>
+    <img src="media/gifs/rotations.gif">
+   </details>
+  
+  
+   <details>
+    <summary><a href="src/square.py">square.py</a></summary>
+    <p>This code creates a square that tilts and transforms into circle </p>
+    <h3> Output </h3>
+    <img src="media/gifs/square.gif">
+   </details>
+  
+  
+   <details>
+    <summary><a href="src/transform.py">transform.py</a></summary>
+    <p>This code creates a square that tilts and transforms into circle </p>
+    <h3> Output </h3>
+    <img src="media/gifs/SquareToCircle.gif">
+   </details>
+  
+  
+   <details>
+    <summary><a href="src/twotransform.py">twotransform.py</a></summary>
+    <p>This code creates a square that tilts and transforms into circle </p>
+    <h3> Output </h3>
+    <img src="media/gifs/TwoTransforms.gif">
+   </details>
   
 </ul>
-
 
 ---
 
 ### License
-
-This project is licensed under the MIT License.
+No license
+<!--This project is licensed under the MIT License.-->
 
 ---
 
