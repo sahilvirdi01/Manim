@@ -44,10 +44,11 @@ Replace AnimateScene with the actual scene class name in the script.
 ---
 
 ### Codes & Previews
+Following are the codes with their outputs.  
 
    <details>
     <summary><a href="src/example.py">HelloWorld.py</a></summary>
-    <p>This code creates a square that tilts and transforms into circle </p>
+    <p>This program creates a text animation saying "Hello World". </p>
     <h3> Output </h3>
     <img src="media/gifs/Helloworld.gif">
    </details>
@@ -63,7 +64,7 @@ Replace AnimateScene with the actual scene class name in the script.
   
    <details>
     <summary><a href="src/circle.py">circle.py</a></summary>
-    <p>This code creates a square that tilts and transforms into circle </p>
+    <p>This code creates a circle. </p>
     <h3> Output </h3>
     <img src="media/gifs/CreateCircle.gif">
    </details>
@@ -71,7 +72,7 @@ Replace AnimateScene with the actual scene class name in the script.
   
    <details>
     <summary><a href="src/mobjects.py">mobjects.py</a></summary>
-    <p>This code creates a square that tilts and transforms into circle </p>
+    <p>This code creates a circle annd a square . </p>
     <h3> Output </h3>
     <img src="media/gifs/squareandcircle.gif">
    </details>
@@ -79,7 +80,7 @@ Replace AnimateScene with the actual scene class name in the script.
   
    <details>
     <summary><a href="src/rotations.py">rotations.py</a></summary>
-    <p>This code creates a square that tilts and transforms into circle </p>
+    <p>This code creates two squares that plays two different animations</p>
     <h3> Output </h3>
     <img src="media/gifs/rotations.gif">
    </details>
@@ -87,7 +88,7 @@ Replace AnimateScene with the actual scene class name in the script.
   
    <details>
     <summary><a href="src/square.py">square.py</a></summary>
-    <p>This code creates a square that tilts and transforms into circle </p>
+    <p>This code creates a square. </p>
     <h3> Output </h3>
     <img src="media/gifs/square.gif">
    </details>
@@ -95,7 +96,7 @@ Replace AnimateScene with the actual scene class name in the script.
   
    <details>
     <summary><a href="src/transform.py">transform.py</a></summary>
-    <p>This code creates a square that tilts and transforms into circle </p>
+    <p>This code creates a tilted square that transforms into circle. </p>
     <h3> Output </h3>
     <img src="media/gifs/SquareToCircle.gif">
    </details>
@@ -103,7 +104,7 @@ Replace AnimateScene with the actual scene class name in the script.
   
    <details>
     <summary><a href="src/twotransform.py">twotransform.py</a></summary>
-    <p>This code creates a square that tilts and transforms into circle </p>
+    <p>This code creates animation in which a circle transforms into a square and then square transforms into circle </p>
     <h3> Output </h3>
     <img src="media/gifs/TwoTransforms.gif">
    </details>
