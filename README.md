@@ -114,8 +114,7 @@ Following are the codes with their outputs.
 ---
 
 ### License
-No license
-<!--This project is licensed under the MIT License.-->
+This project is licensed under the MIT License
 
 ---
 
