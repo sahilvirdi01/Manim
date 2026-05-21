@@ -4,7 +4,7 @@
 # Manim Codes
 
 This repository contains my practice scripts created using [Manim](https://www.manim.community/), a mathematical animation engine.  
-Each script demonstrates a specific mathematical or animation concept, along with generated outputs in GIF formats
+Each script demonstrates a specific mathematical or animation concept, along with generated outputs in GIF or Videoformats
 
 ---
 
